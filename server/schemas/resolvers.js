@@ -92,9 +92,9 @@ const resolvers = {
                     { _id: context.user._id },
                     { $pull: { removeBook: bookId } },
                     { new: true }
-                ).populate('friends');
+                )
 
-                return updatedUser;
+                return removeUserBook;
             }
 
             throw new AuthenticationError('You need to be looged in!');
