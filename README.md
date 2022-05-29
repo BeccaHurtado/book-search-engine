@@ -33,4 +33,4 @@
   No tests
 
   # Questions
-  ## If you have any questions or issues with the generator, visit https://github.com/BeccaHurtado/read-me-generator to create a new issue. You can also contact me at rebeccah7.rh@gmail.com for any additional questions.
+  ## If you have any questions or issues with the generator, visit https://github.com/BeccaHurtado/book-search-engine to create a new issue. You can also contact me at rebeccah7.rh@gmail.com for any additional questions.
